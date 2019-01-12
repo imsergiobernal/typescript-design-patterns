@@ -1,0 +1,17 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Javascript design patterns",
+  "main": "index.js",
+  "scripts": {
+    "lint": "tslint 'src/**/*.ts'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Bernal",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2"
+  }
+}
